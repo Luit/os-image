@@ -9,7 +9,8 @@ rpm-ostree override remove \
     gnome-shell-extension-background-logo \
     gnome-shell-extension-launch-new-instance \
     gnome-shell-extension-places-menu \
-    gnome-shell-extension-window-list
+    gnome-shell-extension-window-list \
+    noopenh264
 
 rpm-ostree install \
     distrobox \
