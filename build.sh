@@ -13,6 +13,7 @@ rpm-ostree override remove \
     noopenh264
 
 rpm-ostree install \
+    code \
     distrobox \
     firewall-config \
     mozilla-openh264 \
