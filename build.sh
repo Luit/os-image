@@ -4,7 +4,6 @@ set -ouex pipefail
 
 rpm-ostree override remove \
     gnome-classic-session \
-    gnome-classic-session-xsession \
     gnome-shell-extension-apps-menu \
     gnome-shell-extension-background-logo \
     gnome-shell-extension-launch-new-instance \
