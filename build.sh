@@ -15,11 +15,8 @@ rpm-ostree install \
     code \
     distrobox \
     firewall-config \
-    gnome-boxes \
     mozilla-openh264 \
     ptyxis \
     pulseaudio-utils \
-    qemu \
-    qemu-kvm \
     steam-devices \
     tailscale
