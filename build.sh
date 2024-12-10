@@ -15,6 +15,7 @@ rpm-ostree install \
     code \
     distrobox \
     firewall-config \
+    hugo \
     mozilla-openh264 \
     ptyxis \
     pulseaudio-utils \
