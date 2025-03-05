@@ -13,9 +13,7 @@ rpm-ostree override remove \
 
 rpm-ostree install \
     code \
-    distrobox \
     firewall-config \
-    hugo \
     hidapi \
     mozilla-openh264 \
     ptyxis \
